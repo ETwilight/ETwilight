@@ -16,4 +16,4 @@ I am **Twilight**, a sophomore at UIUC.
 ![](https://img.shields.io/badge/-C-white)
 ![](https://img.shields.io/badge/-x86-black)
 ![](https://img.shields.io/badge/-LaTeX-brown)
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> FTW!
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
