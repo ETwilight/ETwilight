@@ -9,7 +9,7 @@ I am **Twilight**, a sophomore at UIUC.
 **STACKS:**
 ![](https://img.shields.io/badge/-Pytorch-red)
 ![](https://img.shields.io/badge/-Matplotlib-blue)
-![](https://img.shields.io/badge/-Numpy-brightgreen)
+![](https://img.shields.io/badge/-Numpy-darkgreen)
 ![]("https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white")
 ![](https://img.shields.io/badge/-C%2B%2B-lightgrey)
 ![](https://img.shields.io/badge/-C-white)
