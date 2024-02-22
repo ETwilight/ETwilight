@@ -7,7 +7,7 @@ I am **Twilight**, a sophomore at UIUC.
 -  chat with me about 💬: ***CLASSICAL*** music 🎶 / F1 🏎️ / Biking 🚲
 -  Aim 🙌: To be a lifelong learner!
 **STACKS:**
-![](https://img.shields.io/badge/-Pytorch-orange)
+![](https://img.shields.io/badge/-Pytorch-red)
 ![](https://img.shields.io/badge/-Matplotlib-blue)
 ![](https://img.shields.io/badge/-Numpy-brightgreen)
 ![]("https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white")
