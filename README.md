@@ -13,4 +13,4 @@ I am **Twilight**, a sophomore at UIUC.
 ![]("https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white")
 ![](https://img.shields.io/badge/-C%2B%2B-lightgrey)
 ![](https://img.shields.io/badge/-C-white)
-![](https://img.shields.io/badge/-LaTeX-darkgrey)
+![](https://img.shields.io/badge/-LaTeX-black)
