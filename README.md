@@ -13,5 +13,3 @@ I am **Twilight**, a sophomore at UIUC.
 
 **WHY NOT CHECK OUT MY BELOVED ORCHESTRA (WELL, sort of my personal website, TBH):**
 [https://unrestrainedconcert.github.io](https://unrestrainedconcert.github.io)
-
-<img alt="me" src="https://unrestrainedconcert.github.io/img/Brian_main_clip.22124513.png"/>
