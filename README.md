@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am **Twilight**, a sophomore at UIUC.
+I am **Twilight**, a junior at UIUC.
 -  Pronouns 😄: He/Him/His
 -  How to reach me 📫: <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> twilight1840
 -  Research Interest ⚡: **Theoretical** (Deep) ML, RL, ML Inference, ML+Music
