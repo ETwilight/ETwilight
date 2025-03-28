@@ -19,5 +19,3 @@ I am **Twilight**, a junior at UIUC.
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ETwilight&show_icons=true&theme=default&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ETwilight&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ETwilight&theme=default)
