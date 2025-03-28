@@ -14,6 +14,9 @@ I am **Twilight**, a junior at UIUC.
 **WHY NOT CHECK OUT MY BELOVED ORCHESTRA (WELL, sort of my personal website, TBH):**
 [https://unrestrainedconcert.github.io](https://unrestrainedconcert.github.io)
 
+**Currently Working on:**
+![Smartride](https://github.com/CS222-UIUC/team-07-project-smartride)
+
 **STATS:**
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ETwilight&show_icons=true&theme=default&count_private=true)
