@@ -13,3 +13,11 @@ I am **Twilight**, a junior at UIUC.
 
 **WHY NOT CHECK OUT MY BELOVED ORCHESTRA (WELL, sort of my personal website, TBH):**
 [https://unrestrainedconcert.github.io](https://unrestrainedconcert.github.io)
+
+**STATS:**
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ETwilight&show_icons=true&theme=default&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ETwilight&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ETwilight&theme=default)
