@@ -15,7 +15,7 @@ I am **Twilight**, a junior at UIUC.
 [https://unrestrainedconcert.github.io](https://unrestrainedconcert.github.io)
 
 **Currently Working on:**
-![Smartride](https://github.com/CS222-UIUC/team-07-project-smartride)
+[Smartride](https://github.com/CS222-UIUC/team-07-project-smartride)
 
 **STATS:**
 
