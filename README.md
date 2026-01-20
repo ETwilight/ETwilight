@@ -1,9 +1,8 @@
 ### Hi there 👋
-I am **Twilight**, a freshman at Tiger University.
+I am **Twilight**, a senior at UIUC.
 -  Pronouns 😄: He/Him/His
 -  How to reach me 📫: <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> twilight1840
 -  Research Interest ⚡: **Theoretical** (Deep) ML, RL, Trustworthy ML (I am particularly interested in Interpretability and OOD generalization), ML+Music
--  German is the BEST ♾️
 -  chat with me about 💬: ***CLASSICAL*** music 🎶 / F1 🏎️ / Biking 🚲
 -  Aim 🙌: To be a lifelong learner!
 
@@ -13,6 +12,9 @@ I am **Twilight**, a freshman at Tiger University.
 
 **WHY NOT CHECK OUT MY BELOVED ORCHESTRA (WELL, sort of my personal website, TBH):**
 [https://unrestrainedconcert.github.io](https://unrestrainedconcert.github.io)
+
+**Personal Website:**
+[https://etwilight.github.io](https://etwilight.github.io)
 
 **Currently Working on:**
 [SmartRide](https://github.com/CS222-UIUC/team-07-project-smartride) (Major Developer)
