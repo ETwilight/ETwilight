@@ -21,4 +21,4 @@ I am **Twilight**, a senior at UIUC.
 
 **STATS:**
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ETwilight&show_icons=true&theme=default&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ETwilight&layout=compact)
+[![ETwilight's GitHub stats](https://github-readme-stats.vercel.app/api?username=etwilight)](https://github.com/anuraghazra/github-readme-stats)
