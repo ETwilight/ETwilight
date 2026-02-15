@@ -18,7 +18,3 @@ I am **Twilight**, a senior at UIUC.
 
 **Currently Working on:**
 [SmartRide](https://github.com/CS222-UIUC/team-07-project-smartride) (Major Developer)
-
-**STATS:**
-
-[![ETwilight's GitHub stats](https://github-readme-stats.vercel.app/api?username=etwilight)](https://github.com/anuraghazra/github-readme-stats)
